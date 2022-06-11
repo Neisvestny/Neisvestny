@@ -16,6 +16,4 @@
     <a href="https://discord.gg/KTD7u6BUNd"> <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" /> </a>
 </p>
 # 🔑 My skils
-<p align= "center">
-    ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript) ![Mongo](https://img.shields.io/badge/Mongo-090909?style=for-the-badge&logo=mongodb) ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript) ![Mongo](https://img.shields.io/badge/Mongo-090909?style=for-the-badge&logo=mongodb) ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
