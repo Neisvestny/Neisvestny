@@ -19,5 +19,5 @@
 
 # ✉ Contacts
 <p align= "center">
-    <a href="https://discord.gg/KTD7u6BUNd"> <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" /> </a>
+    <a href="https://discord.com/users/681228391508213830"> <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" /> </a>
 </p>
