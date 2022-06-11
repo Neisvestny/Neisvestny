@@ -3,7 +3,10 @@
       ┆ 🧪 Hobby: I like to learn something new by improving it, and not just steal some code.
  -->
 ### 🎫 Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neisvestny&count_private=true&show_icons=true&theme=radical)
+<p align="center">
+    <img alt="VSCode" src="(https://github-readme-stats.vercel.app/api?username=neisvestny&count_private=true&show_icons=true&theme=radical)" />
+</p>
+
 # 🛠 Software I use
 <p align="center">
     <img alt="VSCode" src="https://img.shields.io/badge/VSCode%20-24adf3?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
