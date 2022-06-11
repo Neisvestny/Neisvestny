@@ -11,9 +11,15 @@
     <img alt="Intellij Idea" src="https://img.shields.io/badge/Intellij Idea%20%20-fe315d?&style=for-the-badge&logo=Intellij-Idea&logoColor=white" />
 </p>
 
+# ⌨ My skills
+<p align="center">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=222222" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-292929?style=for-the-badge&logo=Java&logoColor=e91f32" />
+    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-953dac?&style=for-the-badge&logo=CSharp&logoColor=white" />
+</p>
+
 # ✉ Contacts
 <p align= "center">
     <a href="https://discord.gg/KTD7u6BUNd"> <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" /> </a>
 </p>
-# 🔑 My skils
-      ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript) ![Mongo](https://img.shields.io/badge/Mongo-090909?style=for-the-badge&logo=mongodb) ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
