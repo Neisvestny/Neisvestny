@@ -4,7 +4,7 @@
  -->
 ### 🎫 Stats:
 <p align="center">
-    <img alt="VSCode" src="(https://github-readme-stats.vercel.app/api?username=neisvestny&count_private=true&show_icons=true&theme=radical)" />
+    <img alt="VSCode" src="https://github-readme-stats.vercel.app/api?username=neisvestny&count_private=true&show_icons=true&theme=radical" />
 </p>
 
 # 🛠 Software I use
