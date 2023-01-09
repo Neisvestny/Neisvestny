@@ -23,6 +23,7 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=222222" />
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=Python" />
+    <img alt="Python" src="https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=Java" />
 </p>
 
 ---
