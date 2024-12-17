@@ -33,19 +33,10 @@
 
 ---
 
-### ✉ Contacts
-<p align="center">
-      <a href="https://t.me/neisvestny" style="text-decoration: none;"> 
-            <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?&style=for-the-badge&logo=Telegram&logoColor=white" /> 
-      </a>
-      <a href="https://www.linkedin.com/in/neisvestny/" style="text-decoration: none;"> 
-            <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white" /> 
-      </a>
-      <a href="mailto:kishkunou_ruslan@mail.ru" style="text-decoration: none;"> 
-            <img alt="Email" src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /> 
-      </a>
-      <a href="https://discord.com/users/681228391508213830" style="text-decoration: none;"> 
-            <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" /> 
-      </a>
-</p>
+### 📫 Contact Me
+
+- **Telegram**: [@neisvestny](https://t.me/neisvestny)
+- **LinkedIn**: [neisvestny](https://www.linkedin.com/in/neisvestny/)
+- **Email**: [kishkunou_ruslan@mail.ru](mailto:kishkunou_ruslan@mail.ru)
+- **Discord**: [neisvestny.](https://discord.com/users/681228391508213830)
 
