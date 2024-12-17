@@ -28,7 +28,6 @@
 
 <div align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neisvestny&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=neisvestny&count_private=true&show_icons=true&theme=radical" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neisvestny&layout=compact&theme=dark"/>
 </div>
 
