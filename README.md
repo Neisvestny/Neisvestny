@@ -42,7 +42,7 @@
 
 ### ✉ Contacts
 <p align= "center" style="text-decoration: none;">
-    <a href="https://t.me/yourtelegramusername" style="text-decoration: none;"> 
+    <a href="https://t.me/neisvestny" style="text-decoration: none;"> 
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?&style=for-the-badge&logo=Telegram&logoColor=white" /> 
     </a>
     <a href="https://www.linkedin.com/in/neisvestny/" style="text-decoration: none;"> 
