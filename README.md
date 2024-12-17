@@ -29,8 +29,16 @@
 
 ### ✉ Contacts
 <p align= "center">
-    <a href="https://discord.com/users/681228391508213830"> <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" /> </a>
-    <a href="https://t.me/yourtelegramusername"> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?&style=for-the-badge&logo=Telegram&logoColor=white" /> </a>
-    <a href="mailto:your_email@example.com"> <img alt="Email" src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /> </a>
-    <a href="https://www.linkedin.com/in/yourlinkedinusername/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white" /> </a>
+    <a href="https://discord.com/users/681228391508213830" style="text-decoration: none;"> 
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" /> 
+    </a>
+    <a href="https://t.me/yourtelegramusername" style="text-decoration: none;"> 
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?&style=for-the-badge&logo=Telegram&logoColor=white" /> 
+    </a>
+    <a href="mailto:your_email@example.com" style="text-decoration: none;"> 
+        <img alt="Email" src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /> 
+    </a>
+    <a href="https://www.linkedin.com/in/yourlinkedinusername/" style="text-decoration: none;"> 
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white" /> 
+    </a>
 </p>
