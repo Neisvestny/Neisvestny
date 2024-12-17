@@ -34,7 +34,7 @@
 ---
 
 ### ✉ Contacts
-<p align= "center" style="text-decoration: none;">
+<p align="center">
       <a href="https://t.me/neisvestny" style="text-decoration: none;"> 
             <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?&style=for-the-badge&logo=Telegram&logoColor=white" /> 
       </a>
@@ -48,3 +48,4 @@
             <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" /> 
       </a>
 </p>
+
