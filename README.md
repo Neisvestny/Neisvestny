@@ -28,7 +28,7 @@
 ---
 
 ### ✉ Contacts
-<p align= "center">
+<p align= "center" style="text-decoration: none;">
     <a href="https://discord.com/users/681228391508213830" style="text-decoration: none;"> 
         <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" /> 
     </a>
